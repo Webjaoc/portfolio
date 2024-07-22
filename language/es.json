@@ -1,0 +1,21 @@
+{
+    "profile": {
+        "rol": "Desarrollador web español",
+        "description": "Hola soy un diplomado en programación web recientemente graduado, apasionado por el desarrollo de webs innovadoras y funcionales. Durante mi formación, adquirí habilidades en diversas tecnologías y metodologías de desarrollo web. Estoy ansioso por poner en práctica mis conocimientos en un entorno profesional, contribuir con soluciones creativas y aprender de los desafíos del mundo real. Busco mi primera oportunidad para crecer y desarrollarme como desarrollador web."
+    },
+    "experience": {
+        "first-job-title": "Experiencia",
+        "first-job-dates": "enero 2014 - febrero 2020",
+        "first-job-position": "Desarrollador web Full stack",
+        "first-job-descriptions": "Mi primer trabajo como programador web fue desarrollar y mantener sitios dinámicos, utilizando HTML, CSS y JavaScript, asegurando funcionalidades y experiencia de usuario óptimas. "
+    },
+    "hobbies": {
+        "title": "Pasatiempos",
+        "activity": "Disfruto del senderismo en familia y con amigos en la naturaleza,asi tambien como jugar al fútbol o de navegar siempre que puedo, buscando siempre actividades al aire libre."
+    },
+    "project": {
+        "project-title": "Academia Nautica",
+        "project-descriptions": "La Academia Náutica ofrece una plataforma web dinámica y funcional donde los usuarios pueden inscribirse en diversos cursos de navegación y seguridad marítima. Los miembros registrados pueden solicitar citas personalizadas con instructores expertos. Además, la web permite a los administradores gestionar contenidos y publicar artículos informativos sobre náutica, noticias y eventos. La interfaz intuitiva asegura una experiencia enriquecedora tanto para aprendices como para expertos en navegación."
+    }
+
+}

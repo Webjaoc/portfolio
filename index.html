@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="./css/styles.css">
+    
+    <title>Portfolio</title>
+</head>
+    
+<body class="dark">
+    <headre class="header">
+        
+        <div  class="switches">
+            <div id="bottons_colors" class="bottons_colors">
+                <img id="bottons_colors_icon" src="./assets/icons/sun.svg" alt="icon theme" class="bottons_colors_icon" />
+                <p id="bottons_colors_text" class="bottons_colors_text">Light Mode</p>
+            </div>
+        </div>
+        
+        <div id="flags" class="flags" >
+            <div class="flags__item" data-language="en">
+                <img src="./assets/icons/en.png" alt="en">
+            </div>
+            <div class="flags__item" data-language="de">
+                <img src="./assets/icons/de.png" alt="de">
+            </div>
+            <div class="flags__item" data-language="es">
+                <img src="./assets/icons/es.png" alt="es">
+            </div>
+        </div>
+        
+        <div id="toggle-colors" class="colors">
+            <div data-color="rgb(65, 120, 239)" class="colors__item colors__item--blue"></div>
+            <div data-color="rgb(65, 239, 135)" class="colors__item colors__item--green"></div>
+            <div data-color="rgb(190, 65, 239)" class="colors__item colors__item--purple"></div>
+            <div data-color="rgb(239, 172, 65)" class="colors__item colors__item--orange"></div>
+        </div>
+
+    </headre>
+    
+    <main class="main">
+        <section class="column olumn--left">
+            <article class="card card--profile">
+                <div class="card__image-conteiner">
+                    <img src="./assets/icons/profile/profail.PNG" alt="foto">
+                </div>
+                <div class="card__header">
+                    <h2 class="card__title">Jorge Oyhenart</h2>
+                    <p class="card__subtitle" data-section="profile" data-value="rol">Programador web Full stack</p>
+                </div>
+                <div class="card__body">
+                    <div class="card__link">
+                        <i class="fas fa-envelope icon"></i>
+                        <a href="mailto:oyhenartjorge@gmail.com">oyhenartjorge@gmail.com</a>
+                    </div>
+                    <div class="card__link">
+                        <i class="fas fa-phone-alt icon"></i>
+                        <a href="tel:00436606959134">+43 6606959134</a>
+                    </div>
+                    <p class="card__text" data-section="profile" data-value="description">
+                        Hola soy un diplomado en programación web recientemente graduado,
+                        apasionado por el desarrollo de webs innovadoras y funcionales.
+                        Durante mi formación, adquirí habilidades en diversas tecnologías y
+                        metodologías de desarrollo web. Estoy ansioso por poner en práctica
+                        mis conocimientos en un entorno profesional, contribuir con soluciones
+                        creativas y aprender de los desafíos del mundo real. Busco mi primera oportunidad
+                        para crecer y desarrollarme como desarrollador web.
+                    </p>
+                </div>
+                
+            </article>
+            <article class="card card--experience">
+                <h2 class="card__title" data-section="experience" data-value="first-job-title">Experiencia</h2>
+                <div class="experience">
+                    <img src="assets/icons/logo.png" alt="logo" class="experience__image">
+                    <div class="experience__info">
+                        <p class="experience__time"data-section="experience" data-value="first-job-dates">
+                            Aug 2022 - Jun 2024
+                        </p>
+                        <h3 class="experience__job" data-section="experience" data-value="first-job-position">Programador web full stack</h3>
+                        <p class="experience__description" data-section="experience" data-value="first-job-descriptions">Mi primer trabajo como 
+                            programador web fue desarrollar y mantener sitios dinámicos, utilizando HTML, CSS y JavaScript, asegurando
+                             funcionalidades y experiencia de usuario óptimas.</p>
+                    </div>
+                </div>
+            </article>
+         
+            <article class="card card--hobbies">
+                <h2 class="card__titlie" data-section="hobbies" data-value="title">Pasatiempos</h2>
+                <div class="card__image-container">
+                    <img src="assets/icons/walking.png" alt="walking">
+                </div>
+                <h3 class="hobbie__title" ></h3>
+                <p class="card__text" data-section="hobbies" data-value="activity">Disfruto del senderismo en familia y con amigos en la naturaleza,
+                     asi tambien como jugar al fútbol o de navegar siempre que puedo, buscando siempre actividades al aire libre.</p>
+            </article>
+
+
+
+        </section>
+        <section class="column column--right">
+            
+            <article class="card">
+                <h2 class="card__title">Front End</h2>
+                <small >Años de formacion</small>
+                
+                <div class="skills">
+                    <div class="skills__header">
+                        <span class="skills__start-level">0</span>
+                        <span class="skills__start-level">3</span>
+                    </div>
+                </div>
+                
+                <div class="skills">
+                    <div class="skills__item">
+                        <p class="skills__tech">HTML</p>
+                        <div class="skills__bar skills__bar--80"></div>
+                    </div>
+                    <div class="skills__item">
+                        <p class="skills__tech">CSS</p>
+                        <div class="skills__bar skills__bar--70"></div>
+                    </div>
+                    <div class="skills__item">
+                        <p class="skills__tech">JavaScript</p>
+                        <div class="skills__bar skills__bar--60"></div>
+                    </div>
+                </div>    
+            </article>
+            
+            <article class="card">
+                <h2 class="card__title">Back End</h2>
+                <small >Años de formacion</small>
+                <div class="skills">
+                    <div class="skills__header">
+                        <span class="skills__start-level">0</span>
+                        <span class="skills__start-level">3</span>
+                    </div>
+                    <div class="skills__item">
+                        <p class="skills__tech">PHP</p>
+                        <div class="skills__bar skills__bar--40"></div>
+                    </div>
+                    <div class="skills__item">
+                        <p class="skills__tech">SQL</p>
+                        <div class="skills__bar skills__bar--30"></div>
+                    </div>
+                    <div class="skills__item">
+                        <p class="skills__tech">Apache2</p>
+                        <div class="skills__bar skills__bar--20"></div>
+                    </div>
+                </div>
+            </article>
+            <article class="card">
+                <h2 class="card__title">Back End</h2>
+                <small>Años de formacion</small>
+                <div class="skills">
+                    <div class="skills__header">
+                        <span class="skills__start-level">0</span>
+                        <span class="skills__start-level">3</span>
+                    </div>
+                    <div class="skills__item">
+                        <p class="skills__tech">PHP</p>
+                        <div class="skills__bar skills__bar--40"></div>
+                    </div>
+                    <div class="skills__item">
+                        <p class="skills__tech">SQL</p>
+                        <div class="skills__bar skills__bar--30"></div>
+                    </div>
+                    <div class="skills__item">
+                        <p class="skills__tech">Apache2</p>
+                        <div class="skills__bar skills__bar--20"></div>
+                    </div>
+                </div>
+            </article>
+
+            <article class="card card--project">
+                <div class="card__image-container" id="card__image-container">
+                    <img src="./assets/icons/portada.png" alt="projecto1" width="300" height="300" class="card__image">
+                </div>
+                <div class="project">
+                    <div class="project__tags">
+                        <span class="project__tag">HTML</span>
+                        <span class="project__tag">CSS</span>
+                        <span class="project__tag">JavaScript</span>
+                        <span class="project__tag">PHP</span>
+                        <span class="project__tag">MySQL</span>
+                    </div>
+                    <h2 class="card__title" data-section="project" data-value="project-title">Academia Nautica</h2>
+                    <p class="card__text" id="card__text1" data-section="project" data-value="project-descriptions">La Academia Náutica  ofrece 
+                        una plataforma web dinámica y funcional donde los usuarios pueden
+                        inscribirse en diversos cursos de navegación y seguridad marítima.
+                        Los miembros registrados pueden solicitar citas personalizadas
+                        con instructores expertos. Además, la web permite a los
+                        administradores gestionar contenidos y publicar artículos 
+                        informativos sobre náutica, noticias y eventos. La interfaz 
+                        intuitiva asegura una experiencia enriquecedora tanto para aprendices
+                        como para expertos en navegación.</p>
+                    
+                    <div class="buttons">
+                        <a href="#" class="button button--primary" target="_blank">Demo</a>
+                        <a href="#" class="button button--ghost" target="_blank">Code</a>
+                    </div>
+                              
+                </div>
+            </article>
+
+        </section>
+    </main>
+
+    <script src="./js/scripts.js"></script>
+    
+ 
+</body>
+</html>

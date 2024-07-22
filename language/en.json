@@ -1,0 +1,20 @@
+{
+    "profile": {
+        "rol": "Web developer",
+        "description": "Hello, I am a recently graduated web programming diploma holder, passionate about developing innovative and functional websites. During my training, I acquired skills in various technologies and web development methodologies. I am eager to apply my knowledge in a professional environment, contribute with creative solutions, and learn from real-world challenges. I am looking for my first opportunity to grow and develop as a web developer."
+    },
+    "experience": {
+        "first-job-title": "Experience",
+        "first-job-dates": "enero 2014 - febrero 2020",
+        "first-job-position": "Desarrollador web Full stack",
+        "first-job-descriptions": "My first job as a web developer was to develop and maintain dynamic websites, using HTML, CSS, and JavaScript, ensuring optimal functionality and user experience."
+    },
+    "hobbies": {
+        "title": "Hobbies",
+        "activity": "I enjoy hiking with family and friends in nature, as well as playing soccer or sailing whenever I can, always seeking outdoor activities.."
+    },
+    "project": {
+        "project-title": "Nautical Academy",
+        "project-descriptions": "The Nautical Academy offers a dynamic and functional web platform where users can enroll in various navigation and maritime safety courses. Registered members can schedule personalized appointments with expert instructors. Additionally, the website allows administrators to manage content and publish informative articles on nautical topics, news, and events. The intuitive interface ensures an enriching experience for both beginners and experienced navigators."
+    }     
+}

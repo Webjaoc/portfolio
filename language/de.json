@@ -1,0 +1,20 @@
+{
+    "profile": {
+        "rol": "Webentwickler",
+        "description": "Hallo, ich bin ein frisch diplomierter Webprogrammierer, leidenschaftlich interessiert an der Entwicklung innovativer und funktionaler Webseiten. Während meiner Ausbildung habe ich Fähigkeiten in verschiedenen Technologien und Methoden der Webentwicklung erworben. Ich freue mich darauf, mein Wissen in einem professionellen Umfeld anzuwenden, mit kreativen Lösungen beizutragen und von den Herausforderungen der realen Welt zu lernen. Ich suche meine erste Gelegenheit, um als Webentwickler zu wachsen und mich weiterzuentwickeln."
+    },
+    "experience": {
+        "first-job-title": "Erfahrung",
+        "first-job-dates": "enero 2014 - febrero 2020",
+        "first-job-position": "Desarrollador web Full stack",
+        "first-job-descriptions": "Mein erster Job als Webentwickler bestand darin, dynamische Websites zu entwickeln und zu pflegen, wobei ich HTML, CSS und JavaScript verwendete und optimale Funktionalität und Benutzererfahrung sicherstellte."
+    },
+    "hobbies": {
+        "title": "Hobbys",
+        "activity": "Ich genieße es, mit Familie und Freunden in der Natur zu wandern, genauso wie Fußball zu spielen oder zu segeln, wann immer ich kann, immer auf der Suche nach Aktivitäten im Freien."
+    },
+    "project": {
+        "project-title": "Nautikakademie",
+        "project-descriptions": "Die Nautikakademie bietet eine dynamische und funktionale Webplattform, auf der Benutzer sich für verschiedene Kurse in Navigation und Seesicherheit anmelden können. Registrierte Mitglieder können personalisierte Termine mit erfahrenen Ausbildern vereinbaren. Darüber hinaus ermöglicht die Website den Administratoren, Inhalte zu verwalten und informative Artikel über Nautik, Nachrichten und Veranstaltungen zu veröffentlichen. Die intuitive Benutzeroberfläche gewährleistet eine bereichernde Erfahrung sowohl für Anfänger als auch für Experten in der Navigation."
+    }
+}
