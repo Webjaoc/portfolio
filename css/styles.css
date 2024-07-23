@@ -375,3 +375,24 @@ main{
         transform: translateX(var(--skill-bar-length));
     }
 }
+
+@media screen and (max-width: 730px) {
+    main{
+        padding: 0px;
+    } 
+    article{
+        padding: 0px;
+    }
+    .card__image{
+        margin: auto;
+    }
+    .project__tags{
+        margin: auto;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        
+    } 
+    .buttons{
+        margin: auto;
+    }
+}

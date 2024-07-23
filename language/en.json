@@ -7,11 +7,15 @@
         "first-job-title": "Experience",
         "first-job-dates": "enero 2014 - febrero 2020",
         "first-job-position": "Desarrollador web Full stack",
-        "first-job-descriptions": "My first job as a web developer was to develop and maintain dynamic websites, using HTML, CSS, and JavaScript, ensuring optimal functionality and user experience."
+        "first-job-descriptions": "My first experience as a web developer was to develop and maintain dynamic websites, using HTML, CSS, and JavaScript, ensuring optimal functionality and user experience."
     },
     "hobbies": {
         "title": "Hobbies",
         "activity": "I enjoy hiking with family and friends in nature, as well as playing soccer or sailing whenever I can, always seeking outdoor activities.."
+    },
+    "skills": {
+        "skills-title": "Learning",
+        "skills-time": "Years elapsed"
     },
     "project": {
         "project-title": "Nautical Academy",
