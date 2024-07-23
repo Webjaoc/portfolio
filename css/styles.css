@@ -200,6 +200,13 @@ main{
         grid-column: 1 / -1;
     }    
 }
+@media  screen and (min-width: 760px) {
+    .card--project-title{
+        display: grid;
+        grid-template-rows: min-content 1fr;
+        grid-column: 1 / -1;
+    }    
+}
 
 
 /*.skills{
