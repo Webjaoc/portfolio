@@ -20,5 +20,9 @@
     "project": {
         "project-title": "Sol y Mar",
         "project-descriptions": "The 'Sol y Mar' custom vacation company offers personalized trips to fulfill your dreams. With us, you can choose every detail of your experience: destinations, accommodations, activities, and transportation. Whether you want a romantic getaway, a family adventure, or a cultural trip, we tailor each itinerary to your preferences and budget. Flexibility is key; we adjust plans on the go according to your needs. Enjoy a unique vacation, designed exclusively for you, with maximum comfort and satisfaction."
+    },
+    "project2": {
+        "project2-title":"Destino Aventura",
+        "project2-descriptions": "Welcome to 'Destino Aventura', your destination for dream vacation accommodations. We offer a wide variety of lodging options, from cozy apartments to luxurious villas. Our rates cater to all budgets, ensuring a perfect stay regardless of your needs. Additionally, we provide a range of extras to enhance your experience, such as daily cleaning services, airport transfers, and sports equipment rentals. At VacayStay, we ensure every detail of your trip is unforgettable. Book today!"
     }     
 }
