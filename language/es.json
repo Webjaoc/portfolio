@@ -27,6 +27,10 @@
     "project2": {
         "project2-title":"Destino Aventura",
         "project2-descriptions": "Bienvenido a 'Destino Aventura', tu destino para alojamientos vacacionales de ensueño. Ofrecemos una amplia variedad de opciones de hospedaje, desde acogedores apartamentos hasta lujosas villas. Nuestras tarifas se adaptan a todos los presupuestos, garantizando una estancia perfecta sin importar tus necesidades. Además, disponemos de una gama de extras para mejorar tu experiencia, como servicios de limpieza diaria, traslados al aeropuerto, y alquiler de equipos deportivos. En VacayStay, nos aseguramos de que cada detalle de tu viaje sea inolvidable. ¡Reserva hoy mismo!"
+    },
+    "project3":{
+        "project3-title":"Memory Challenge",
+        "project3-descriptions": "El objetivo de divertirse con un juego de memory es estimular la mente y mejorar la memoria a través de la identificación y emparejamiento de cartas. Ideal para momentos aburridos, ofrece entretenimiento y desafío, manteniendo la mente activa y brindando satisfacción al completar parejas."
     }
 
 }

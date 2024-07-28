@@ -27,5 +27,9 @@
     "project2": {
         "project2-title":"Destino Aventura",
         "project2-descriptions": "Welcome to 'Destino Aventura', your destination for dream vacation accommodations. We offer a wide variety of lodging options, from cozy apartments to luxurious villas. Our rates cater to all budgets, ensuring a perfect stay regardless of your needs. Additionally, we provide a range of extras to enhance your experience, such as daily cleaning services, airport transfers, and sports equipment rentals. At VacayStay, we ensure every detail of your trip is unforgettable. Book today!"
+    },
+    "project3":{
+        "project3-title":"Memory Challenge",
+        "project3-descriptions": "The goal of having fun with a memory game is to stimulate the mind and improve memory by identifying and matching cards. Ideal for boring moments, it offers entertainment and challenge, keeps the mind active, and provides satisfaction when pairs are found."
     }     
 }
