@@ -5,9 +5,9 @@
     },
     "experience": {
         "first-job-title": "Erfahrung",
-        "first-job-dates": "enero 2014 - febrero 2020",
-        "first-job-position": "Desarrollador web Full stack",
-        "first-job-descriptions": "Mein erster Erfahrung als Webentwickler bestand darin, dynamische Websites zu entwickeln und zu pflegen, wobei ich HTML, CSS und JavaScript verwendete und optimale Funktionalität und Benutzererfahrung sicherstellte."
+        "first-job-dates": "Januar 2014 - August 2024",
+        "first-job-position": "Maschinenführer",
+        "first-job-descriptions": "Als Maschinenbediener bestand meine Hauptaufgabe darin, die Maschinenprogramme zu konfigurieren und anzupassen, um die Produktqualität zu optimieren. Dies umfasst die Auswahl präziser Parameter, die Überwachung des Produktionsprozesses und die Durchführung notwendiger Anpassungen, um optimale und konsistente Ergebnisse sicherzustellen."
     },
     "hobbies": {
         "title": "Hobbys",
@@ -15,7 +15,10 @@
     },
     "skills": {
         "skills-title": "Am lernen",
-        "skills-time": "Verflossene Jahre"
+        "skills-time": ""
+    },
+    "project-header":{
+        "project-header-title": "Projekte erstellt"
     },
     "project": {
         "project-title": "Sol y Mar",

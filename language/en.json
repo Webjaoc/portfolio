@@ -5,9 +5,9 @@
     },
     "experience": {
         "first-job-title": "Experience",
-        "first-job-dates": "enero 2014 - febrero 2020",
-        "first-job-position": "Desarrollador web Full stack",
-        "first-job-descriptions": "My first experience as a web developer was to develop and maintain dynamic websites, using HTML, CSS, and JavaScript, ensuring optimal functionality and user experience."
+        "first-job-dates": "January 2014 - August 2020",
+        "first-job-position": "Machine Operator",
+        "first-job-descriptions": "As a machine operator, my main task was to configure and adjust machine programs to optimize product quality. This included selecting precise parameters, monitoring the production process, and making necessary adjustments to ensure optimal and consistent results."
     },
     "hobbies": {
         "title": "Hobbies",
@@ -15,7 +15,10 @@
     },
     "skills": {
         "skills-title": "Learning",
-        "skills-time": "Years elapsed"
+        "skills-time": ""
+    },
+    "project-header":{
+        "project-header-title": "Projects created"
     },
     "project": {
         "project-title": "Sol y Mar",

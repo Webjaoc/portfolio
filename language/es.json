@@ -5,9 +5,9 @@
     },
     "experience": {
         "first-job-title": "Experiencia",
-        "first-job-dates": "enero 2014 - febrero 2020",
-        "first-job-position": "Desarrollador web Full stack",
-        "first-job-descriptions": "Mi primer trabajo como programador web fue desarrollar y mantener sitios dinámicos, utilizando HTML, CSS y JavaScript, asegurando funcionalidades y experiencia de usuario óptimas. "
+        "first-job-dates": "Enero 2014 - Agosto 2024",
+        "first-job-position": "Operador maquinista",
+        "first-job-descriptions": "Como operador maquinista, mi tarea principal era configurar y ajustar los programas de las máquinas para optimizar la calidad del producto. Esto incluye seleccionar parámetros precisos, monitorear el proceso de producción y realizar ajustes necesarios para asegurar resultados óptimos y consistentes. "
     },
     "hobbies": {
         "title": "Pasatiempos",
@@ -17,6 +17,9 @@
         "skills-title": "Estudiando",
         "skills-time": "Años transcurridos"
     },
+    "project-header":{
+        "project-header-title": "Proyectos realizados"
+    }, 
     "project": {
         "project-title": "Sol y Mar",
         "project-descriptions": "La empresa 'Sol y Mar' de vacaciones a la carta ofrece viajes personalizados para satisfacer tus sueños. Con nosotros, puedes elegir cada detalle de tu experiencia: destinos, alojamientos, actividades y transporte. Ya sea que desees una escapada romántica, una aventura familiar o un viaje cultural, adaptamos cada itinerario a tus preferencias y presupuesto. La flexibilidad es clave; ajustamos los planes sobre la marcha según tus necesidades. Vive unas vacaciones únicas, diseñadas exclusivamente para ti, con la máxima comodidad y satisfacción."
