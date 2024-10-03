@@ -31,5 +31,13 @@
     "project3":{
         "project3-title":"Memory Challenge",
         "project3-descriptions": "The goal of having fun with a memory game is to stimulate the mind and improve memory by identifying and matching cards. Ideal for boring moments, it offers entertainment and challenge, keeps the mind active, and provides satisfaction when pairs are found."
+    },
+    "project4":{
+        "project4-title":"To do list",
+        "project4-descriptions": "The 'To do list' app allows you to create and organize task lists as you type them, making it easier to manage your daily tasks. It's ideal for reminding you of what you need to do, helping you plan and prioritize your activities in a simple and efficient way."
+    },
+    "project5":{
+        "project5-title":"Ta te ti",
+        "project5-descriptions": "The game 'Ta te ti' or tic-tac-toe is played on a 3x3 board where two players, one with 'X' and the other with 'O', try to align three symbols in a row, column, or diagonal. The first to do so wins. It is a fun, simple, fast, and strategic pastime, perfect for challenging the mind at any moment."
     }     
 }

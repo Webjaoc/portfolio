@@ -31,5 +31,13 @@
     "project3":{
         "project3-title":"Memory Challenge",
         "project3-descriptions": "Das Ziel, sich mit einem Memory-Spiel zu amüsieren, besteht darin, den Geist zu stimulieren und das Gedächtnis durch das Identifizieren und Zuordnen von Karten zu verbessern. Ideal für langweilige Momente, bietet es Unterhaltung und Herausforderung, hält den Geist aktiv und sorgt für Zufriedenheit beim Finden von Paaren."
+    },
+    "project4":{
+        "project4-title":"To do list",
+        "project4-descriptions": "Die 'To do list' App ermöglicht es, Aufgabenlisten zu erstellen und zu organisieren, während du sie eintippst, was die Verwaltung deiner täglichen Aufgaben erleichtert. Sie ist ideal, um dich an das zu erinnern, was du erledigen musst, und hilft dir, deine Aktivitäten einfach und effizient zu planen und zu priorisieren."
+    },
+    "project5":{
+        "project5-title":"Ta te ti",
+        "project5-descriptions": "Das Spiel 'Ta te ti' oder Drei gewinnt wird auf einem 3x3-Spielbrett gespielt, auf dem zwei Spieler, einer mit 'X' und der andere mit 'O', versuchen, drei Symbole in einer Reihe, Spalte oder Diagonale zu platzieren. Der Erste, dem dies gelingt, gewinnt. Es ist ein lustiger, einfacher, schneller und strategischer Zeitvertreib, ideal, um den Geist jederzeit herauszufordern."
     }
 }

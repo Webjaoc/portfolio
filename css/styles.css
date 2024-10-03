@@ -149,7 +149,7 @@ main{
 @media screen and (min-width: 720px) {
     .column--right{
         grid-template-columns: repeat(3,1fr);
-        grid-template-rows: repeat(5, min-content);
+        grid-template-rows: repeat(6, min-content);
         align-items: stretch;
         
     }
