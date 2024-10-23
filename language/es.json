@@ -31,6 +31,14 @@
     "project3":{
         "project3-title":"Memory Challenge",
         "project3-descriptions": "El objetivo de divertirse con un juego de memory es estimular la mente y mejorar la memoria a través de la identificación y emparejamiento de cartas. Ideal para momentos aburridos, ofrece entretenimiento y desafío, manteniendo la mente activa y brindando satisfacción al completar parejas."
+    },
+    "project4":{
+        "project4-title":"To do list",
+        "project4-descriptions": "La aplicación 'To do list'  permite crear y organizar listas de tareas mientras las vas escribiendo, facilitando la gestión de tus pendientes diarios. Es ideal para recordar lo que debes hacer, ayudándote a planificar y priorizar tus actividades de manera sencilla y eficiente."
+    },
+    "project5":{
+        "project5-title":"Ta te ti",
+        "project5-descriptions": "El juego 'Ta te ti' o tres en raya, se juega en un tablero de 3x3 donde dos jugadores, uno con 'X' y otro con 'O', intentan alinear tres símbolos en fila, columna o diagonal. Gana el primero en lograrlo. Es un pasatiempo divertido, simple, rápido y estratégico, ideal para desafiar la mente en cualquier momento."
     }
 
 }
