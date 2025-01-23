@@ -39,5 +39,9 @@
     "project5":{
         "project5-title":"Ta te ti",
         "project5-descriptions": "The game 'Ta te ti' or tic-tac-toe is played on a 3x3 board where two players, one with 'X' and the other with 'O', try to align three symbols in a row, column, or diagonal. The first to do so wins. It is a fun, simple, fast, and strategic pastime, perfect for challenging the mind at any moment."
+    },
+    "project6":{
+        "project6-title":"Quiz game",
+        "project6-descriptions": "This game consists of spinning three wheels to get three questions in three different languages, these languages ​​are English, German and Spanish. You also have a timer that tells you how much time is left and thus makes the game a little more fun."
     }     
 }

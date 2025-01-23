@@ -39,5 +39,9 @@
     "project5":{
         "project5-title":"Ta te ti",
         "project5-descriptions": "Das Spiel 'Ta te ti' oder Drei gewinnt wird auf einem 3x3-Spielbrett gespielt, auf dem zwei Spieler, einer mit 'X' und der andere mit 'O', versuchen, drei Symbole in einer Reihe, Spalte oder Diagonale zu platzieren. Der Erste, dem dies gelingt, gewinnt. Es ist ein lustiger, einfacher, schneller und strategischer Zeitvertreib, ideal, um den Geist jederzeit herauszufordern."
+    },
+    "project6":{
+        "project6-title":"Quizspiel",
+        "project6-descriptions": "Bei diesem Spiel dreht man drei Räder, um drei Fragen in drei verschiedenen Sprachen zu erhalten, und zwar Englisch, Deutsch und Spanisch. Sie verfügen außerdem über einen Timer, der Ihnen anzeigt, wie viel Zeit noch verbleibt, was das Spiel noch ein wenig unterhaltsamer macht."
     }
 }
