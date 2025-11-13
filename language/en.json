@@ -1,6 +1,6 @@
 {
     "profile": {
-        "rol": "Web developer",
+        "rol": "Full stack Web developer",
         "description": "Hello, I am a web programming diploma holder, passionate about developing innovative and functional websites. During my training, I acquired skills in various technologies and web development methodologies. I am eager to apply my knowledge in a professional environment, contribute with creative solutions, and learn from real-world challenges. I am looking for my first opportunity to grow and develop as a web developer."
     },
     "experience": {
@@ -14,7 +14,7 @@
         "activity": "I enjoy hiking with family and friends in nature, as well as playing soccer or sailing whenever I can, always seeking outdoor activities.."
     },
     "skills": {
-        "skills-title": "Learning",
+        "skills-title": "Additional Skills",
         "skills-time": ""
     },
     "project-header":{
